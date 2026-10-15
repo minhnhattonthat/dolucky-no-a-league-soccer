@@ -23,4 +23,6 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Credits translated. Graphics text (title subtitle) in scope. Never push/publish; release = local zip.
 
 ## Status
-- Done: Step 0, phase 1 recon (text found, encoding, refs), phase 3 identity, phase 4 extract. Next: debug tool (phase 2), font lowercase + marker build (phase 5). Open bugs: none.
+- Done: all phases 0-9. Release v1.0 at release/dolucky-no-a-league-soccer_en.zip (BPS sha1 96cfc4bd..., patched CRC32 70F7B3CC). 100% of text translated, reviewer approved, Minors applied.
+- Next: nothing required. Optional: reach the plain OPTION screen in the warp tool. Open bugs: none.
+- Translation workflow: tools/batches.py split|check|merge (work/tl/), brief docs/translator-brief.md.
