@@ -75,7 +75,7 @@
   "form": "narration",
   "max": 17,
   "jp": "ねこ とくゆうのきびんさ と\nしなやかな にくたい で\nひじょうにあつかいやすい\nチームであるといわれています。",
-  "en": "Cat-quick, lithe,\nsaid to be a very\neasy team to\nhandle.",
+  "en": "Nimble, lithe\ncats, said to be\na very easy team\nto handle.",
   "status": "tl",
   "notes": ""
  },
@@ -85,7 +85,7 @@
   "form": "narration",
   "max": 17,
   "jp": "パスワークにていひょうが\nあるようですが なにしろ\nねこは きまぐれ ですから\nねぇ。どうなんでしょう。",
-  "en": "Good at passing,\nthey say, but\ncats are fickle,\nyou know. Hmm?",
+  "en": "Good at passing,\nthey say, but\ncats are fickle,\nso... who knows?",
   "status": "tl",
   "notes": ""
  },
@@ -95,7 +95,7 @@
   "form": "narration",
   "max": 17,
   "jp": "エースのポチのまじめさ が\nうれしい しょうじきチーム。\nねこ より いぬ のすきな\nあなたに。",
-  "en": "Ace Pochi is so\nearnest! Honest\nteam. For you who\nprefer dogs.",
+  "en": "Honest team with\nan earnest ace,\nPochi. For dog\nover cat people.",
   "status": "tl",
   "notes": ""
  },
@@ -115,7 +115,7 @@
   "form": "narration",
   "max": 17,
   "jp": "いつもココロはロックンロールの\nウサギです。ヘンですね。\nくうちゅうせん がとくい\nらしいです。",
-  "en": "Rabbits who are\nrock 'n' roll at\nheart. Weird, eh?\nAces in the air.",
+  "en": "Rabbits who are\nrock 'n' roll at\nheart. Weird, eh?\nAces in the air?",
   "status": "tl",
   "notes": ""
  },
@@ -195,7 +195,7 @@
   "form": "narration",
   "max": 17,
   "jp": "Aりーぐ に さんせんしようと\nしたが、まったく なかまが\nあつまらず さみしさのあまり\nぼうがいをくわだてる。",
-  "en": "Tried joining the\nA-League. No one\ncame. Lonely, he\nplots sabotage.",
+  "en": "Couldn't find any\nteammates for the\nA-League. Lonely,\nplots sabotage.",
   "status": "tl",
   "notes": ""
  },
