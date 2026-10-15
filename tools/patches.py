@@ -1,5 +1,6 @@
 """Non-text ROM patches applied by build.py (font, graphics, code). Listed in docs/re/hooks.md."""
 import font
+import title_gfx
 
 # (file offset of a 16-bit LDA #imm operand, original value, new value)
 IMM16 = [
@@ -12,6 +13,7 @@ IMM16 = [
 
 def apply(rom, mode):
     font.patch(rom)  # lowercase a-z in codes 43-5C
+    title_gfx.patch(rom)  # title subtitle sprites in English
     for off, old, new in IMM16:
         assert rom[off - 1] == 0xA9 and rom[off] | rom[off + 1] << 8 == old, hex(off)
         rom[off] = new & 0xFF; rom[off + 1] = new >> 8
