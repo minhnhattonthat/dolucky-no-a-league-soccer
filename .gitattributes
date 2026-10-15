@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.sfc binary
+*.smc binary
+*.bin binary
+*.png binary
+*.bps binary
+*.zip binary
+*.mss binary

@@ -1,0 +1,302 @@
+[
+ {
+  "id": "quotes_00",
+  "addr": "0DED6B",
+  "form": "dlg",
+  "max": 24,
+  "jp": "   「はははは、かっちゃいました。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_01",
+  "addr": "0DED7F",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「これでどうぶつさっかーのちょーてんに\n      たっしたわけっスね。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_02",
+  "addr": "0DEDA8",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「まぁ、ちょろいもんですわ。むはははは。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_03",
+  "addr": "0DEDBF",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「・・いやぁ、どうなることかとおもったけど\n どうやらかったみたいスね・・・・・・」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_04",
+  "addr": "0DEDED",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「あぁ、しあいがそうまとうのように・・・」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_05",
+  "addr": "0DEE04",
+  "form": "dlg",
+  "max": 24,
+  "jp": "   「・・・つかれたねぇみんな。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_06",
+  "addr": "0DEE17",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「でも、みんなでかちぬいたからきぶんは\n      ソーカイだよねっ!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_07",
+  "addr": "0DEE40",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「さぁ、かえってごはんでもたべよう!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_08",
+  "addr": "0DEE57",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「・・・まさかもう1チームあるとはおもわなか\n   ったなぁ・・・あーつかれた。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_09",
+  "addr": "0DEE81",
+  "form": "dlg",
+  "max": 24,
+  "jp": "  「・・・みんなつよかったなぁ・・・」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_10",
+  "addr": "0DEE96",
+  "form": "dlg",
+  "max": 24,
+  "jp": " 「ヘーイかちぬいちまったぜみんな!!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_11",
+  "addr": "0DEEAC",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「これでオレたちゃキング・オブ・ロック\n ・・・じゃなくてさっかーだぜ!!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_12",
+  "addr": "0DEED9",
+  "form": "dlg",
+  "max": 24,
+  "jp": "  「もう、おおいばりじゃーん!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_13",
+  "addr": "0DEEED",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「・・・うーん、よのなかにはいろんなヤツが\n いるもんだなぁ・・・おどろいたぜ。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_14",
+  "addr": "0DEF1B",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「オレたちももっとがんばらないとヤツらに\n キングのざをうばわれちゃうな・・・」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_15",
+  "addr": "0DEF49",
+  "form": "dlg",
+  "max": 24,
+  "jp": "   「がはははははははははは!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_16",
+  "addr": "0DEF5C",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「むかうところてきナシたぁこのことだな?」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_17",
+  "addr": "0DEF73",
+  "form": "dlg",
+  "max": 24,
+  "jp": "  「よーし、さっそくエンカイだ!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_18",
+  "addr": "0DEF87",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「・・・うーむ、モグラごときにこれほど\n   てこずるたぁおもわなかったな。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_19",
+  "addr": "0DEFB3",
+  "form": "dlg",
+  "max": 24,
+  "jp": " 「よーしみんな!かえってエンカイだ!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_20",
+  "addr": "0DEFC9",
+  "form": "dlg",
+  "max": 24,
+  "jp": " 「ふん・・・・なんてよわいヤツラだ。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_21",
+  "addr": "0DEFDF",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「まぁ、われわれのうごきについてこれない\n ノロマばかりだったがな。うふふ。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_22",
+  "addr": "0DF00B",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「われわれにかつためには、われわれとおなじ\n  パワーがあるヤツじゃないとな!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_23",
+  "addr": "0DF038",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「・・・いや、われわれとおなじようなやつ\n がいどんでくるとはおもわなかった。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_24",
+  "addr": "0DF065",
+  "form": "dlg",
+  "max": 24,
+  "jp": "  「すげぇつよいチームだったな。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_25",
+  "addr": "0DF07A",
+  "form": "dlg",
+  "max": 24,
+  "jp": "「さて、かえってミミズでもくうか・・。」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_26",
+  "addr": "0DF091",
+  "form": "dlg",
+  "max": 24,
+  "jp": " 「ちょおおっとまったああああああっ!!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_27",
+  "addr": "0DF0A7",
+  "form": "dlg",
+  "max": 24,
+  "jp": "   「われわれがあいてだ!!」",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_28",
+  "addr": "0DF0BA",
+  "form": "dlg",
+  "max": 24,
+  "jp": "   CONGRATULAT",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "quotes_29",
+  "addr": "0DF0C9",
+  "form": "dlg",
+  "max": 24,
+  "jp": "   CONGRATULATIONS!!",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,11 @@
+rom/
+build/
+work/
+dist/
+release/
+tools/mesen/
+tools/asar/
+__pycache__/
+*.pyc
+*.mss
+*.srm

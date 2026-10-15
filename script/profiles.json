@@ -1,0 +1,212 @@
+[
+ {
+  "id": "profiles_00",
+  "addr": "0DFA1C",
+  "form": "narration",
+  "max": 18,
+  "jp": " レッド・ホット\n       ドラッキーズ ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_01",
+  "addr": "0DFA37",
+  "form": "narration",
+  "max": 18,
+  "jp": " ポチ・ザ・ファンキー\n         ドッグス ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_02",
+  "addr": "0DFA56",
+  "form": "narration",
+  "max": 18,
+  "jp": "デヴィッド・ラビット\n         ロッカーズ ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_03",
+  "addr": "0DFA76",
+  "form": "narration",
+  "max": 18,
+  "jp": "  ゴロー・ワイルド\n        ベアーズ  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_04",
+  "addr": "0DFA94",
+  "form": "narration",
+  "max": 18,
+  "jp": " ジェット・モール\n       デンジャラス ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_05",
+  "addr": "0DFAB0",
+  "form": "narration",
+  "max": 18,
+  "jp": " レフリー・カーチス\n         IIIせい",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_06",
+  "addr": "0DFACA",
+  "form": "narration",
+  "max": 18,
+  "jp": "エドワード・やまだ\n (エディってよんでくれ)",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_07",
+  "addr": "0DFAE7",
+  "form": "narration",
+  "max": 18,
+  "jp": "ねこ とくゆうのきびんさ と\nしなやかな にくたい で\nひじょうにあつかいやすい\nチームであるといわれています。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_08",
+  "addr": "0DFB24",
+  "form": "narration",
+  "max": 18,
+  "jp": "パスワークにていひょうが\nあるようですが なにしろ\nねこは きまぐれ ですから\nねぇ。どうなんでしょう。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_09",
+  "addr": "0DFB61",
+  "form": "narration",
+  "max": 18,
+  "jp": "エースのポチのまじめさ が\nうれしい しょうじきチーム。\nねこ より いぬ のすきな\nあなたに。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_10",
+  "addr": "0DFB96",
+  "form": "narration",
+  "max": 18,
+  "jp": "まっすぐ で いちずな\nプレイがきたいできます。\nあと、くつに なにかヒミツが\nあるとかないとか・・・。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_11",
+  "addr": "0DFBD2",
+  "form": "narration",
+  "max": 18,
+  "jp": "いつもココロはロックンロールの\nウサギです。ヘンですね。\nくうちゅうせん がとくい\nらしいです。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_12",
+  "addr": "0DFC08",
+  "form": "narration",
+  "max": 18,
+  "jp": "インパクトのあるキャラクター\nの すきなひとはどうぞ。\nかれらのロックだましいを\nわかってあげましょうね。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_13",
+  "addr": "0DFC43",
+  "form": "narration",
+  "max": 18,
+  "jp": "もう、パワーだけです。\nちからおしと オヤジの\nすきなひとに おすすめと\nいったところでしょうか。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_14",
+  "addr": "0DFC7A",
+  "form": "narration",
+  "max": 18,
+  "jp": "わかりやすいぐらいに\nあしがおそいですが、\nイキオイでカバーして\nください。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_15",
+  "addr": "0DFCA8",
+  "form": "narration",
+  "max": 18,
+  "jp": "みてのとおりのモグラ\nなんですが、なんと ひを\nふいたりします。うーん、\nこれは ヒキョウだよなぁ。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_16",
+  "addr": "0DFCDF",
+  "form": "narration",
+  "max": 18,
+  "jp": "けっこう はんそくな\nキャラクターではありますが\nなにしろ さいごの てき\nですからってことでひとつ。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_17",
+  "addr": "0DFD18",
+  "form": "narration",
+  "max": 18,
+  "jp": "ミスター・トップ・オブ\nジャッジメンツ。かれの\nフエは 5ねんもの どくとくの\nよい おとが します。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_18",
+  "addr": "0DFD52",
+  "form": "narration",
+  "max": 18,
+  "jp": "かれ ひとりしか しんぱんが\nいないため、オフサイドがない\nという でんせつがあるほど\nかれは プロなのです(?)。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_19",
+  "addr": "0DFD96",
+  "form": "narration",
+  "max": 18,
+  "jp": "Aりーぐ に さんせんしようと\nしたが、まったく なかまが\nあつまらず さみしさのあまり\nぼうがいをくわだてる。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "profiles_20",
+  "addr": "0DFDD6",
+  "form": "narration",
+  "max": 18,
+  "jp": "マッドサイエンティストなので\nさまざまな メカニズムを\nくしして だとうAりーぐを\nめざす ヘンなオヤジです。",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

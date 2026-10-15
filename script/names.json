@@ -1,0 +1,402 @@
+[
+ {
+  "id": "names_00",
+  "addr": "012381",
+  "form": "name",
+  "max": 8,
+  "jp": "ウイリアム ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_01",
+  "addr": "012388",
+  "form": "name",
+  "max": 8,
+  "jp": "ドラッキー",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_02",
+  "addr": "01238F",
+  "form": "name",
+  "max": 8,
+  "jp": "みけ    ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_03",
+  "addr": "012396",
+  "form": "name",
+  "max": 8,
+  "jp": "とらお   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_04",
+  "addr": "01239D",
+  "form": "name",
+  "max": 8,
+  "jp": "こてつ   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_05",
+  "addr": "0123A4",
+  "form": "name",
+  "max": 8,
+  "jp": "のら    ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_06",
+  "addr": "0123AB",
+  "form": "name",
+  "max": 8,
+  "jp": "たま    ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_07",
+  "addr": "0123B2",
+  "form": "name",
+  "max": 8,
+  "jp": "みー    ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_08",
+  "addr": "0123B9",
+  "form": "name",
+  "max": 8,
+  "jp": "ハリー   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_09",
+  "addr": "0123C0",
+  "form": "name",
+  "max": 8,
+  "jp": "ポチ   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_10",
+  "addr": "0123C7",
+  "form": "name",
+  "max": 8,
+  "jp": "ラッシィ  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_11",
+  "addr": "0123CE",
+  "form": "name",
+  "max": 8,
+  "jp": "タロ    ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_12",
+  "addr": "0123D5",
+  "form": "name",
+  "max": 8,
+  "jp": "ジロ   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_13",
+  "addr": "0123DC",
+  "form": "name",
+  "max": 8,
+  "jp": "ハチ    ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_14",
+  "addr": "0123E3",
+  "form": "name",
+  "max": 8,
+  "jp": "ベンジィ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_15",
+  "addr": "0123EA",
+  "form": "name",
+  "max": 8,
+  "jp": "ジョリィ ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_16",
+  "addr": "0123F1",
+  "form": "name",
+  "max": 8,
+  "jp": "トニー   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_17",
+  "addr": "0123F8",
+  "form": "name",
+  "max": 8,
+  "jp": "デビット",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_18",
+  "addr": "0123FF",
+  "form": "name",
+  "max": 8,
+  "jp": "マイケル  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_19",
+  "addr": "012406",
+  "form": "name",
+  "max": 8,
+  "jp": "ロジャー ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_20",
+  "addr": "01240D",
+  "form": "name",
+  "max": 8,
+  "jp": "ジョージ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_21",
+  "addr": "012414",
+  "form": "name",
+  "max": 8,
+  "jp": "ジェイムス",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_22",
+  "addr": "01241B",
+  "form": "name",
+  "max": 8,
+  "jp": "ロバート ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_23",
+  "addr": "012422",
+  "form": "name",
+  "max": 8,
+  "jp": "ゲイリー ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_24",
+  "addr": "012429",
+  "form": "name",
+  "max": 8,
+  "jp": "けんじ  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_25",
+  "addr": "012430",
+  "form": "name",
+  "max": 8,
+  "jp": "ごろう  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_26",
+  "addr": "012437",
+  "form": "name",
+  "max": 8,
+  "jp": "よしお   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_27",
+  "addr": "01243E",
+  "form": "name",
+  "max": 8,
+  "jp": "こういち  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_28",
+  "addr": "012445",
+  "form": "name",
+  "max": 8,
+  "jp": "じゅんいち",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_29",
+  "addr": "01244C",
+  "form": "name",
+  "max": 8,
+  "jp": "ひろし   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_30",
+  "addr": "012453",
+  "form": "name",
+  "max": 8,
+  "jp": "まさあき  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_31",
+  "addr": "01245A",
+  "form": "name",
+  "max": 8,
+  "jp": "ふじお  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_32",
+  "addr": "012461",
+  "form": "name",
+  "max": 8,
+  "jp": "ターボ  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_33",
+  "addr": "012468",
+  "form": "name",
+  "max": 8,
+  "jp": "ジェット ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_34",
+  "addr": "01246F",
+  "form": "name",
+  "max": 8,
+  "jp": "ロケット  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_35",
+  "addr": "012476",
+  "form": "name",
+  "max": 8,
+  "jp": "モーター  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_36",
+  "addr": "01247D",
+  "form": "name",
+  "max": 8,
+  "jp": "スラスター ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_37",
+  "addr": "012484",
+  "form": "name",
+  "max": 8,
+  "jp": "バーニア ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_38",
+  "addr": "01248B",
+  "form": "name",
+  "max": 8,
+  "jp": "ギア   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "names_39",
+  "addr": "012492",
+  "form": "name",
+  "max": 8,
+  "jp": "クラッチ  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

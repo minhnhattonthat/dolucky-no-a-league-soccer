@@ -1,0 +1,132 @@
+[
+ {
+  "id": "bonus_00",
+  "addr": "02F693",
+  "form": "menu",
+  "max": 28,
+  "jp": "おまけ・モード",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_01",
+  "addr": "02F69C",
+  "form": "menu",
+  "max": 28,
+  "jp": "しんこうど\n\nもぐら\n\nV.S.オールスター\n\nチーム",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_02",
+  "addr": "02F6BA",
+  "form": "menu",
+  "max": 28,
+  "jp": "えらべない",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_03",
+  "addr": "02F6C1",
+  "form": "menu",
+  "max": 28,
+  "jp": "えらべる ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_04",
+  "addr": "02F6C8",
+  "form": "menu",
+  "max": 28,
+  "jp": "やらない",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_05",
+  "addr": "02F6CD",
+  "form": "menu",
+  "max": 28,
+  "jp": "やる  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_06",
+  "addr": "02F6D2",
+  "form": "menu",
+  "max": 28,
+  "jp": "ふつう   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_07",
+  "addr": "02F6D9",
+  "form": "menu",
+  "max": 28,
+  "jp": "キャプテン",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_08",
+  "addr": "02F6E0",
+  "form": "menu",
+  "max": 28,
+  "jp": "0",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_09",
+  "addr": "02F6E2",
+  "form": "menu",
+  "max": 28,
+  "jp": "1",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_10",
+  "addr": "02F6E4",
+  "form": "menu",
+  "max": 28,
+  "jp": "2",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_11",
+  "addr": "02F6E6",
+  "form": "menu",
+  "max": 28,
+  "jp": "3",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "bonus_12",
+  "addr": "02F6E8",
+  "form": "menu",
+  "max": 28,
+  "jp": "4",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

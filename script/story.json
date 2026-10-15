@@ -1,0 +1,272 @@
+[
+ {
+  "id": "story_00",
+  "addr": "0DF42F",
+  "form": "narration",
+  "max": 16,
+  "jp": "     1993ねん     ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_01",
+  "addr": "0DF440",
+  "form": "narration",
+  "max": 16,
+  "jp": "どうぶつやきうのちょうてんを",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_02",
+  "addr": "0DF451",
+  "form": "narration",
+  "max": 16,
+  "jp": " きわめたという でんせつの ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_03",
+  "addr": "0DF462",
+  "form": "narration",
+  "max": 16,
+  "jp": "  どうぶつたちがいた。 ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_04",
+  "addr": "0DF473",
+  "form": "narration",
+  "max": 16,
+  "jp": "                ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_05",
+  "addr": "0DF484",
+  "form": "narration",
+  "max": 16,
+  "jp": " ・・・ひとはかれらのことを  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_06",
+  "addr": "0DF495",
+  "form": "narration",
+  "max": 16,
+  "jp": "  \"どうぶつやきうの   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_07",
+  "addr": "0DF4A6",
+  "form": "narration",
+  "max": 16,
+  "jp": "   ちょうてんをきわめた   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_08",
+  "addr": "0DF4B7",
+  "form": "narration",
+  "max": 16,
+  "jp": " でんせつのどうぶつたち\"",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_09",
+  "addr": "0DF4C8",
+  "form": "narration",
+  "max": 16,
+  "jp": "     と よんだ。    ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_10",
+  "addr": "0DF4D9",
+  "form": "narration",
+  "max": 16,
+  "jp": "   ・・・おっさん そら   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_11",
+  "addr": "0DF4EA",
+  "form": "narration",
+  "max": 16,
+  "jp": "  そのまんまや ないけ、て。 ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_12",
+  "addr": "0DF4FB",
+  "form": "narration",
+  "max": 16,
+  "jp": "       さて       ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_13",
+  "addr": "0DF50C",
+  "form": "narration",
+  "max": 16,
+  "jp": "  そんなかれらがつぎの  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_14",
+  "addr": "0DF51D",
+  "form": "narration",
+  "max": 16,
+  "jp": " ひょうてきにえらんだのが ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_15",
+  "addr": "0DF52E",
+  "form": "narration",
+  "max": 16,
+  "jp": "   さっかーだった。    ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_16",
+  "addr": "0DF53F",
+  "form": "narration",
+  "max": 16,
+  "jp": "なんか、いまさっかーブーム  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_17",
+  "addr": "0DF550",
+  "form": "narration",
+  "max": 16,
+  "jp": "らしいので「Aりーぐ」とか ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_18",
+  "addr": "0DF561",
+  "form": "narration",
+  "max": 16,
+  "jp": " なのるとかっくいいかな、と  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_19",
+  "addr": "0DF572",
+  "form": "narration",
+  "max": 16,
+  "jp": "  おもったのでそうした。  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_20",
+  "addr": "0DF583",
+  "form": "narration",
+  "max": 16,
+  "jp": " ・・・どうぶつたちの   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_21",
+  "addr": "0DF594",
+  "form": "narration",
+  "max": 16,
+  "jp": "ほんのうがそうさせたのだ。 ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_22",
+  "addr": "0DF5A5",
+  "form": "narration",
+  "max": 16,
+  "jp": " わるぎはないのである。  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_23",
+  "addr": "0DF5B6",
+  "form": "narration",
+  "max": 16,
+  "jp": "  というわけでいまここに  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_24",
+  "addr": "0DF5C7",
+  "form": "narration",
+  "max": 16,
+  "jp": "  あんいなどうぶつたち  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_25",
+  "addr": "0DF5D8",
+  "form": "narration",
+  "max": 16,
+  "jp": "  による、あつくはげしい  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "story_26",
+  "addr": "0DF5E9",
+  "form": "narration",
+  "max": 16,
+  "jp": "  さっかーがはじまる!  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

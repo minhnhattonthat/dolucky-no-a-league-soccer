@@ -1,0 +1,132 @@
+[
+ {
+  "id": "debug_00",
+  "addr": "02F16F",
+  "form": "menu",
+  "max": 28,
+  "jp": "デバッグ・モード",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_01",
+  "addr": "02F17C",
+  "form": "menu",
+  "max": 28,
+  "jp": "しんこうど\n\nじかんせいげん\n\nキーパー\n\nオーバードライブ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_02",
+  "addr": "02F1A2",
+  "form": "menu",
+  "max": 28,
+  "jp": "ふつう   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_03",
+  "addr": "02F1A9",
+  "form": "menu",
+  "max": 28,
+  "jp": "むせいげん",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_04",
+  "addr": "02F1B0",
+  "form": "menu",
+  "max": 28,
+  "jp": "いきてる  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_05",
+  "addr": "02F1B7",
+  "form": "menu",
+  "max": 28,
+  "jp": "しんでる ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_06",
+  "addr": "02F1BE",
+  "form": "menu",
+  "max": 28,
+  "jp": "ふつう   ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_07",
+  "addr": "02F1C5",
+  "form": "menu",
+  "max": 28,
+  "jp": "まんたん  ",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_08",
+  "addr": "02F1CC",
+  "form": "menu",
+  "max": 28,
+  "jp": "0",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_09",
+  "addr": "02F1CE",
+  "form": "menu",
+  "max": 28,
+  "jp": "1",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_10",
+  "addr": "02F1D0",
+  "form": "menu",
+  "max": 28,
+  "jp": "2",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_11",
+  "addr": "02F1D2",
+  "form": "menu",
+  "max": 28,
+  "jp": "3",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "debug_12",
+  "addr": "02F1D4",
+  "form": "menu",
+  "max": 28,
+  "jp": "4",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]
