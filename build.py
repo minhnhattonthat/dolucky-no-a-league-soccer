@@ -10,7 +10,7 @@ import argparse, os, sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tools'))
 from textio import EN, JP, ROOT, enc, load_group, read_rom, strings_in  # noqa: E402
-from textdefs import FREE, GROUPS, bank_byte, cpu_lo  # noqa: E402
+from textdefs import FREE, GROUPS, ROM_SIZE, bank_byte, cpu_lo  # noqa: E402
 
 
 class Alloc:
@@ -112,6 +112,7 @@ def place_groups(rom, mode, qa):
 def build(mode='en', qa=None):
     rom = bytearray(read_rom())
     if mode != 'identity':
+        rom += b'\xFF' * (ROM_SIZE - len(rom))
         import patches
         patches.apply(rom, mode)
     place_groups(rom, mode, qa or {})

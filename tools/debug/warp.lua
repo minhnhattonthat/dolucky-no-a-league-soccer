@@ -24,6 +24,17 @@ local function redirect(pc, fn)  -- first pass of the main sequencer ($80:80E4):
   end)
 end
 
+if scene == "realoptions" then  -- mode select ($89:9083): move the cursor to OPTION and press A
+  local q = false
+  L.on_exec(0x80AA97, 0x80AA97, function()
+    if not q and r16(0x40) == 0x8FC7 and emu.read(0x42, M) == 0x89 then  -- title screen up
+      q = true
+      for _, s in ipairs({ { "-", 200 }, { "start", 6 }, { "-", 250 }, { "down", 6 }, { "-", 40 }, { "down", 6 },
+                           { "-", 40 }, { "a", 6 }, { "-", 400 } }) do L.press(s[1], s[2]) end
+    end
+  end)
+end
+
 if scene == "options" or scene == "bonus" or scene == "debug" then
   redirect(0x8129, function() if scene ~= "options" then w16(0x7E10AC, 1) end end)  -- $80:8129 spawns OPTION
 end

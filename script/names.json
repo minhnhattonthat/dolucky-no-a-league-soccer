@@ -5,8 +5,8 @@
   "form": "name",
   "max": 8,
   "jp": "ウイリアム ",
-  "en": "",
-  "status": "",
+  "en": "William",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
   "form": "name",
   "max": 8,
   "jp": "ドラッキー",
-  "en": "",
-  "status": "",
+  "en": "Dolucky",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
   "form": "name",
   "max": 8,
   "jp": "みけ    ",
-  "en": "",
-  "status": "",
+  "en": "Mike",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
   "form": "name",
   "max": 8,
   "jp": "とらお   ",
-  "en": "",
-  "status": "",
+  "en": "Torao",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
   "form": "name",
   "max": 8,
   "jp": "こてつ   ",
-  "en": "",
-  "status": "",
+  "en": "Kotetsu",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
   "form": "name",
   "max": 8,
   "jp": "のら    ",
-  "en": "",
-  "status": "",
+  "en": "Nora",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
   "form": "name",
   "max": 8,
   "jp": "たま    ",
-  "en": "",
-  "status": "",
+  "en": "Tama",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
   "form": "name",
   "max": 8,
   "jp": "みー    ",
-  "en": "",
-  "status": "",
+  "en": "Mii",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
   "form": "name",
   "max": 8,
   "jp": "ハリー   ",
-  "en": "",
-  "status": "",
+  "en": "Harry",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
   "form": "name",
   "max": 8,
   "jp": "ポチ   ",
-  "en": "",
-  "status": "",
+  "en": "Pochi",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
   "form": "name",
   "max": 8,
   "jp": "ラッシィ  ",
-  "en": "",
-  "status": "",
+  "en": "Lassie",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
   "form": "name",
   "max": 8,
   "jp": "タロ    ",
-  "en": "",
-  "status": "",
+  "en": "Taro",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
   "form": "name",
   "max": 8,
   "jp": "ジロ   ",
-  "en": "",
-  "status": "",
+  "en": "Jiro",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
   "form": "name",
   "max": 8,
   "jp": "ハチ    ",
-  "en": "",
-  "status": "",
+  "en": "Hachi",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
   "form": "name",
   "max": 8,
   "jp": "ベンジィ",
-  "en": "",
-  "status": "",
+  "en": "Benji",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
   "form": "name",
   "max": 8,
   "jp": "ジョリィ ",
-  "en": "",
-  "status": "",
+  "en": "Jolly",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
   "form": "name",
   "max": 8,
   "jp": "トニー   ",
-  "en": "",
-  "status": "",
+  "en": "Tony",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
   "form": "name",
   "max": 8,
   "jp": "デビット",
-  "en": "",
-  "status": "",
+  "en": "David",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
   "form": "name",
   "max": 8,
   "jp": "マイケル  ",
-  "en": "",
-  "status": "",
+  "en": "Michael",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
   "form": "name",
   "max": 8,
   "jp": "ロジャー ",
-  "en": "",
-  "status": "",
+  "en": "Roger",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
   "form": "name",
   "max": 8,
   "jp": "ジョージ",
-  "en": "",
-  "status": "",
+  "en": "George",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
   "form": "name",
   "max": 8,
   "jp": "ジェイムス",
-  "en": "",
-  "status": "",
+  "en": "James",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
   "form": "name",
   "max": 8,
   "jp": "ロバート ",
-  "en": "",
-  "status": "",
+  "en": "Robert",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
   "form": "name",
   "max": 8,
   "jp": "ゲイリー ",
-  "en": "",
-  "status": "",
+  "en": "Gary",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
   "form": "name",
   "max": 8,
   "jp": "けんじ  ",
-  "en": "",
-  "status": "",
+  "en": "Kenji",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
   "form": "name",
   "max": 8,
   "jp": "ごろう  ",
-  "en": "",
-  "status": "",
+  "en": "Goro",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
   "form": "name",
   "max": 8,
   "jp": "よしお   ",
-  "en": "",
-  "status": "",
+  "en": "Yoshio",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
   "form": "name",
   "max": 8,
   "jp": "こういち  ",
-  "en": "",
-  "status": "",
+  "en": "Koichi",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
   "form": "name",
   "max": 8,
   "jp": "じゅんいち",
-  "en": "",
-  "status": "",
+  "en": "Junichi",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
   "form": "name",
   "max": 8,
   "jp": "ひろし   ",
-  "en": "",
-  "status": "",
+  "en": "Hiroshi",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
   "form": "name",
   "max": 8,
   "jp": "まさあき  ",
-  "en": "",
-  "status": "",
+  "en": "Masaaki",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
   "form": "name",
   "max": 8,
   "jp": "ふじお  ",
-  "en": "",
-  "status": "",
+  "en": "Fujio",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
   "form": "name",
   "max": 8,
   "jp": "ターボ  ",
-  "en": "",
-  "status": "",
+  "en": "Turbo",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
   "form": "name",
   "max": 8,
   "jp": "ジェット ",
-  "en": "",
-  "status": "",
+  "en": "Jet",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
   "form": "name",
   "max": 8,
   "jp": "ロケット  ",
-  "en": "",
-  "status": "",
+  "en": "Rocket",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
   "form": "name",
   "max": 8,
   "jp": "モーター  ",
-  "en": "",
-  "status": "",
+  "en": "Motor",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
   "form": "name",
   "max": 8,
   "jp": "スラスター ",
-  "en": "",
-  "status": "",
+  "en": "Thruster",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
   "form": "name",
   "max": 8,
   "jp": "バーニア ",
-  "en": "",
-  "status": "",
+  "en": "Vernier",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
   "form": "name",
   "max": 8,
   "jp": "ギア   ",
-  "en": "",
-  "status": "",
+  "en": "Gear",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
   "form": "name",
   "max": 8,
   "jp": "クラッチ  ",
-  "en": "",
-  "status": "",
+  "en": "Clutch",
+  "status": "tl",
   "notes": ""
  }
 ]

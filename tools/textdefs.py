@@ -13,11 +13,13 @@ FREE = {
     'bank02': (0x17C4B + 1, 0x18000),   # keep one 00 after the last original byte
     'bank05': (0x2F779 + 1, 0x30000),
     'bank0F': (0x7E18C + 1, 0x80000),
+    'bank30': (0x180000, 0x188000),     # expansion: the ROM is padded 1.5 -> 2 MB (header already says 2 MB)
 }
+ROM_SIZE = 0x200000
 
 GROUPS = [
     dict(id='credits', region=(0x2DEAE, 0x2ED52), imms=[0x2DDA6, 0x2DDB4], tables=[],
-         spill=['bank05'], form='credits', limit=28),
+         reloc='bank30', bank_imms=[0x2DDAC, 0x2DDBA], form='credits', limit=28),
     dict(id='debug', region=(0x2F16F, 0x2F1D6), imms=[0x2EE3F, 0x2EE72], tables=[(0x2F159, 11)],
          spill=['bank05'], form='menu', limit=17, pad_from=2, pad=9),
     dict(id='bonus', region=(0x2F693, 0x2F6EA), imms=[0x2F2CE, 0x2F301], tables=[(0x2F67D, 11)],

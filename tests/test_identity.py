@@ -30,4 +30,6 @@ def test_extracted_jp_matches_rom():
 def test_free_space_is_empty_in_original():
     rom = read_rom()
     for name, (a, b) in FREE.items():
+        if a >= len(rom):
+            continue  # expansion area
         assert set(rom[a - 1:b]) == {0}, name
