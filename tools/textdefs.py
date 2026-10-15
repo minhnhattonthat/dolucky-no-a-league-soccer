@@ -17,21 +17,21 @@ FREE = {
 
 GROUPS = [
     dict(id='credits', region=(0x2DEAE, 0x2ED52), imms=[0x2DDA6, 0x2DDB4], tables=[],
-         spill=['bank05'], form='credits', limit=29),
+         spill=['bank05'], form='credits', limit=28),
     dict(id='debug', region=(0x2F16F, 0x2F1D6), imms=[0x2EE3F, 0x2EE72], tables=[(0x2F159, 11)],
-         spill=['bank05'], form='menu', limit=28),
+         spill=['bank05'], form='menu', limit=17, pad_from=2, pad=9),
     dict(id='bonus', region=(0x2F693, 0x2F6EA), imms=[0x2F2CE, 0x2F301], tables=[(0x2F67D, 11)],
-         spill=['bank05'], form='menu', limit=28),
+         spill=['bank05'], form='menu', limit=17, pad_from=2, pad=9),
     dict(id='names', region=(0x12381, 0x12499), imms=[], tables=[(0x12331, 40)],
          spill=['bank02'], form='name', limit=8, pad=8),
     dict(id='endmsg', region=(0x0DE20A, 0x0DE250), imms=[0x0DE150], tables=[],
-         reloc='bank0F', bank_imms=[0x0DE156], form='narration', limit=28),
+         reloc='bank0F', bank_imms=[0x0DE156], form='narration', limit=24),
     dict(id='quotes', region=(0x0DED6B, 0x0DF0DE), imms=[], tables=[(0x0DED2F, 30)],
-         reloc='bank0F', bank_imms=[0x0DEBE7], form='dlg', limit=24),
+         reloc='bank0F', bank_imms=[0x0DEBE7], form='dlg', limit=28),
     dict(id='story', region=(0x0DF42F, 0x0DF5FA), imms=[], tables=[(0x0DF3E7, 36)],
-         reloc='bank0F', bank_imms=[0x0DF343], form='narration', limit=16, pad=16),
+         reloc='bank0F', bank_imms=[0x0DF26E, 0x0DF2B5, 0x0DF2FC, 0x0DF343], form='narration', limit=24, pad=24, slots=True),
     dict(id='profiles', region=(0x0DFA1C, 0x0DFE17), imms=[], tables=[(0x0DF9F2, 21)],
-         reloc='bank0F', bank_imms=[0x0DF919], form='narration', limit=18),
+         reloc='bank0F', bank_imms=[0x0DF919, 0x0DF961, 0x0DF9BE], form='narration', limit=17),
 ]
 
 
