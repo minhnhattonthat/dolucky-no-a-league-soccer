@@ -9,6 +9,7 @@ marker:   every string replaced by its id + filler at the box limit (width gate 
 import argparse, os, sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tools'))
+import check_rom  # noqa: E402
 from textio import EN, JP, ROOT, enc, load_group, read_rom, strings_in  # noqa: E402
 from textdefs import FREE, GROUPS, ROM_SIZE, bank_byte, cpu_lo  # noqa: E402
 
@@ -125,6 +126,7 @@ def main():
     ap.add_argument('--out')
     ap.add_argument('--qa', action='append', default=[], help='ID=text override for one entry (\\n = new line)')
     a = ap.parse_args()
+    check_rom.check()
     qa = {k: v.replace('\\n', '\n') for k, v in (s.split('=', 1) for s in a.qa)}
     out = a.out or os.path.join(ROOT, 'build', 'dolucky_%s.sfc' % a.mode)
     os.makedirs(os.path.dirname(out), exist_ok=True)

@@ -1,8 +1,12 @@
 """Shared text helpers: table codecs, script JSON load/save, string listing of a group region."""
-import json, os, sys
+import glob, json, os, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.insert(0, r'H:\translation\batch\.claude\skills\translate-retro-game\scripts')
+# translate-retro-game scripts: $SKILL (the dir holding SKILL.md), else the newest installed plugin copy
+SKILL = os.path.join(os.environ['SKILL'], 'scripts') if os.environ.get('SKILL') else max(
+    glob.glob(os.path.expanduser('~/.claude/plugins/cache/retro-translation/translate-retro-game/*/skills/'
+                                 'translate-retro-game/scripts')), key=os.path.getmtime)
+sys.path.insert(0, SKILL)
 from tbl import Table  # noqa: E402
 
 ROM = os.path.join(ROOT, 'rom', 'Dolucky no A.League Soccer (Japan).sfc')

@@ -6,3 +6,10 @@
 *.bps binary
 *.zip binary
 *.mss binary
+*.srm binary
+*.cue binary
+*.gba binary
+*.nds binary
+*.iso binary
+*.ips binary
+*.xdelta binary

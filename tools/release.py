@@ -7,7 +7,8 @@ verified) -> release/dolucky-no-a-league-soccer_en.zip (patch + README only). Ne
 import hashlib, os, shutil, subprocess, sys, zipfile, zlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SKILL = r'H:\translation\batch\.claude\skills\translate-retro-game\scripts'
+sys.path.insert(0, os.path.join(ROOT, 'tools'))
+from textio import SKILL  # noqa: E402
 PY = [sys.executable, '-X', 'utf8']
 SLUG = 'dolucky-no-a-league-soccer'
 VERSION = '1.0'
@@ -56,7 +57,7 @@ def main():
     orig, out, chk = (open(p, 'rb').read() for p in (orig_path, final, check))
     assert out == chk, 'patch does not reproduce the build'
     o, p = hashes(orig), hashes(out)
-    readme = open(os.path.join(ROOT, 'docs', 'README.release.txt'), encoding='utf-8').read().format(
+    readme = open(os.path.join(ROOT, 'docs', 'release-readme.txt'), encoding='utf-8').read().format(
         version=VERSION, crc=o[0], md5=o[1], sha1=o[2], pcrc=p[0], psha1=p[2], size=len(orig))
     rd = os.path.join(rel, 'README.txt')
     with open(rd, 'w', encoding='utf-8', newline='\r\n') as f:

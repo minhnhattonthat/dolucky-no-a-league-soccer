@@ -9,3 +9,9 @@ __pycache__/
 *.pyc
 *.mss
 *.srm
+.venv/
+*.sav
+*.state
+*.sstate
+*.ppst
+evidence/private/

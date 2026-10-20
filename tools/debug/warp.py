@@ -8,10 +8,11 @@ from concurrent.futures import ThreadPoolExecutor
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
-sys.path.insert(0, HERE)
+sys.path[:0] = [HERE, os.path.join(ROOT, 'tools')]
 from scenes import SCENES  # noqa: E402
+from textio import SKILL  # noqa: E402
 
-EMU = r'H:\translation\batch\.claude\skills\translate-retro-game\scripts\emu.py'
+EMU = os.path.join(SKILL, 'emu.py')
 
 
 def run(scene, rom, out, log):
