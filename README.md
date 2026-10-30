@@ -9,11 +9,21 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
-## What's translated
+## Translation status
 
-The attract-mode intro story, team and character profile cards, ending quotes and message, the Japanese staff roll
-with its jokes, player names on the match HUD, the hidden Bonus Mode and Debug Mode menus, and the Japanese title
-subtitle. Menus, HUD and team names were already English in the original. Lowercase letters were added to the font.
+| Part | Status |
+|---|---|
+| Intro story (attract mode) | Translated |
+| Team and character profile cards | Translated |
+| Ending quotes, ending message, staff roll with its jokes | Translated |
+| Player names on the match HUD | Translated |
+| Hidden Bonus Mode and Debug Mode menus | Translated |
+| Title screen | Translated (the Japanese subtitle redrawn in English) |
+| Menus, HUD, team names | Already English in the original |
+
+Lowercase letters were added to the font.
+
+Known issues: none known; [report one](../../issues/new/choose).
 
 ## What's here
 
